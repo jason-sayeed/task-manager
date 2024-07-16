@@ -93,4 +93,4 @@ In a new terminal session...
 ; npm start
 ```
 
-You can now navigate to `http://localhost:3000` to create new tasks and view and manage existing tasks
+You can now navigate to `http://localhost:3000` to reach the Task Manager web app.
