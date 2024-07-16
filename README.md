@@ -81,7 +81,7 @@ Create a file `api/.env` with the following contents:
 
 ```
 PORT=3200
-MYSQL_USER=root
+MYSQL_USER="<your_db_username_here>"
 MYSQL_PASSWORD="<your_db_password_here>"
 MYSQL_DB=task_manager
 ```
