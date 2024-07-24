@@ -1,5 +1,5 @@
 import { body, ValidationChain } from 'express-validator';
-import { Priority } from '../enum/priority';
+import { Priority } from '../enum/Priority';
 import { Status } from '../enum/Status';
 
 export const createValidator: ValidationChain[] = [
